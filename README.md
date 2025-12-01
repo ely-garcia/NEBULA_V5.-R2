@@ -84,5 +84,5 @@ Autores:
 Elydariana de León García Espinoza
 Julián Alonso Torrez Valdivia
 Kendra Alexandra Reyes Silva 
-INGENIERÍA EN SISTEMAS DE INFORMACION. UNIVERSIDAD AMAERICANA
+INGENIERÍA EN SISTEMAS DE INFORMACION. UNIVERSIDAD AMERICANA
 
